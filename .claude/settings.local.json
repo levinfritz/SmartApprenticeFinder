@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(python:*)",
+      "Bash(venvScripts:*)",
+      "Bash(pip install:*)",
+      "Bash(.venvScriptsactivate)",
+      "WebFetch(domain:www.yousty.ch)",
+      "Bash(rm:*)",
+      "Bash(streamlit run:*)"
+    ],
+    "deny": []
+  }
+}
